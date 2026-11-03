@@ -1,0 +1,13 @@
+{
+  "name": "qureo-study-mate",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Arabic JavaScript practice assistant",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
